@@ -1,5 +1,10 @@
 # AWS + Terraform Deployment (Flask + Express)
 
+
+
+screenshots -{https://drive.google.com/drive/folders/1n2szmBSVIuoMV1bF7GbGnuvB4b-pBDk6?usp=sharing}
+
+
 ## Part 1
 - Deploy both apps on one EC2
 - Flask → port 5000  
